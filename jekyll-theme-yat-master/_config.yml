@@ -47,8 +47,8 @@ copyright: "(cleft) 2024-{currentYear} {author}"
 #   line in _config.yml. It will appear in your document head meta (for
 #   Google search results) and in your feed.xml site description.
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://oweenia03.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "/owen.github.io" # the subpath of your site, e.g. /blog
+url: "https://oweenia03.github.io/owen.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 # favicon: "/assets/images/favicon.png" # the favicon for your site
 
 # Yat date format
